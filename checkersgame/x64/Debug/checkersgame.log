@@ -1,0 +1,9 @@
+﻿  checkersgame.cpp
+C:\checkersgame\checkersgame\checkersgame.cpp(124,16): error C2440: 'return': cannot convert from 'Piece' to 'Player'
+  C:\checkersgame\checkersgame\checkersgame.cpp(124,16):
+  Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
+  
+C:\checkersgame\checkersgame\checkersgame.cpp(134,34): error C2440: '=': cannot convert from 'Piece' to 'Player'
+  C:\checkersgame\checkersgame\checkersgame.cpp(134,34):
+  Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
+  
